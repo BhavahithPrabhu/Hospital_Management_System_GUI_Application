@@ -1,4 +1,4 @@
-# MediCare-A GUI based Hospital Management System
+# Hospital Management System GUI Application
 
 The **MediCare - A GUI based Hospital Management System** is an intelligent, user-interactive application designed to streamline core hospital operations with ease and efficiency. Built using **Python**, **MySQL**, and **PyAutoGUI**, this project enables real-time management of patients, doctors, prescriptions, room assignments, lab reports, and medical history — all within a secure and responsive environment.
 
