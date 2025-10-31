@@ -57,18 +57,6 @@ The system will automatically install any missing dependencies (`pyautogui`, `my
 
 ---
 
-## 👨‍💻 Author
-
-**Remyaa Sree**
-
-Student at SRM Institute of Science and Technology, Chennai
-
-Passionate about building real-world applications to simplify complex problems.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/remyaa-sree/)
-
----
-
 ## 📃 License
 
 This project is licensed under the [MIT License](LICENSE).
